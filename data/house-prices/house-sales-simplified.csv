@@ -1,4 +1,4 @@
-﻿ID,Date,SalePrice,PropertyID,PropertyType,Bedrooms,Bathrooms,SqFtTotLiving,SqFtLot,YrBuilt
+ID,Date,SalePrice,PropertyID,PropertyType,Bedrooms,Bathrooms,SqFtTotLiving,SqFtLot,YrBuilt
 1,9/16/14,280000,1000102,Multiplex,6,3,2400,9373,1991
 2,6/16/06,1000000,1200013,Single Family,4,3.75,3764,20156,2005
 3,1/29/07,745000,1200019,Single Family,4,1.75,2060,26036,1947
